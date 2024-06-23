@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 84b846cc721ca714e9e8563da0629692
+guid: 4b7408ad19eb3ad44a35af48d0d2294b
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
@@ -14,5 +14,5 @@ AssetOrigin:
   productId: 209444
   packageName: 'PROMETEO: Car Controller'
   packageVersion: 1.2.2
-  assetPath: Assets/PROMETEO - Car Controller/Scripts/PrometeoCarController.cs
+  assetPath: Assets/PROMETEO - Car Controller/Scripts/PrometeoTouchInput.cs
   uploadId: 513063
