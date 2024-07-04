@@ -7,23 +7,45 @@ public class NpcScript : MonoBehaviour
 {
 
 
-    public Transform target;    // Hedef pozisyonu
-    private NavMeshAgent agent; // NavMeshAgent bileþeni
+    private NavMeshAgent agent; 
+    public Transform[] WayPoint;
+    public int number = 0;
 
     void Start()
     {
-        // NavMeshAgent bileþenini al
+        
         agent = GetComponent<NavMeshAgent>();
+        agent.SetDestination(WayPoint[number].position+new Vector3(Random.Range(-7,+7),0,0));
+        agent.speed = Random.Range(17, 23);
     }
 
     void Update()
     {
-        // Hedef pozisyonunu NavMeshAgent'e ayarla
-        if (target != null)
-        {
-            agent.SetDestination(target.position);
-        }
+
     }
 
+
+
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("Waypoint")) {
+
+            if (number ==0|| number == 1 || number == 5) 
+            {
+                number++;
+                agent.SetDestination(WayPoint[number].position + new Vector3(0, 0, Random.Range(-7, +7)));
+                agent.speed=Random.Range(17,23);
+            }
+            else
+            {
+                number++;
+                agent.SetDestination(WayPoint[number].position + new Vector3(Random.Range(-7, +7), 0, 0));
+                agent.speed = Random.Range(17, 23);
+
+            }
+            
+        }
+    }
 
 }
