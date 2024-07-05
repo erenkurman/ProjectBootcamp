@@ -15,7 +15,7 @@ Ertuğrul Şahintürk	- Product Owner <br>
 Eren Kurman	- Scrum Master <br>
 Fazlı Kılıç	- Team Member/Developer <br>
 Gamze Karakaş	- Team Member/Developer/Level Designer <br>
-Gizem	Anbarcı - Team Member/Developer
+Gizem	Anbarcı - Team Member
 
 
 ## Hedef Kitle
@@ -57,8 +57,7 @@ Daily Scrum toplantılarını discord üzerinden gerçekleştirilmesine karar ve
 
 ## Sprint board update: Sprint board screenshotları
 
-
-## Ürün Durumu - Ekran görüntüleri:
+Ürün Durumu - Ekran görüntüleri:
 
 [İlk Karakter Animasyonumuz] (bu araya linki koyacağız) 
 
@@ -68,9 +67,12 @@ Daily Scrum toplantılarını discord üzerinden gerçekleştirilmesine karar ve
 
 ### Alınan kararlar:
 
-*Menü sahnesi yapılacak <br>
+*İlk sprintten sonra ikinci sprintin planlaması olacak. <br>
+*Menü sahnesi yapılacak
 *
 
 
 ### Sprint Retrospective
+
+*İlk sprintten sonra nelerin yanlış gittiği tartışılavak ve bu yanlışyarın doğruları nasıl olabilir belirlenecek. <br>
 
