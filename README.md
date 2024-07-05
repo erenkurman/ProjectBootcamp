@@ -1,11 +1,11 @@
 # Oyun ve Uygulama Akademisi Bootcamp Projesi
 
-Takım İsmi <br>
-Takım - 25 "Dirift"
+Takım İsmi: Takım25 <br>
+Takım - 25 "Drift"
 
 
 ## Ürün İle İlgili Bilgiler
-3d, LowPoly, Araba Yarışı <br>
+3D, LowPoly, Araba Yarışı <br>
 Windows(PC)
 
 
@@ -14,24 +14,24 @@ Windows(PC)
 Ertuğrul Şahintürk	- Product Owner <br>
 Eren Kurman	- Scrum Master <br>
 Fazlı Kılıç	- Team Member/Developer <br>
-Gamze Karakaş	- Team Member/Developer <br>
+Gamze Karakaş	- Team Member/Developer/Level Designer <br>
 Gizem	Anbarcı - Team Member/Developer
 
 
 ## Hedef Kitle
 
-16 yaş ve üstü oyuncular <br>
+13 yaş ve üstü oyuncular <br>
 Araba Yarışı oyunu sevenler
 
 
 ## Ürün İsmi
 
-Dirift
+Drift
 
 
 ## Ürün Açıklaması
 
-Oyunumuz lox poly araçlarla yarış mekaniğinin birleştiği, bir araba yarışı oyunudur.
+Oyunumuz low poly araçlarla yarış mekaniğinin birleştiği, bir araba yarışı oyunudur. farklı pist farklı araç bunu düzenle ekle
 
 
 ## Ürün Özellikleri
@@ -44,9 +44,11 @@ LowPoly araçlar, yapay zekaya karşı yarışmaktadır.
 *Discord üzerinden ilk toplantı yapıldı. <br>
 *Görev dağılımı ve yapılacak oyun belirlendi. <br>
 *Oyunun görsel tarzına karar verildi. <br>
-*Hazır assetler ile çevre oluşturuldu. <br>
+*Hazır assetler ile ilk pistin çevresi oluşturuldu. <br>
 *Araçlar hareket edebilir hale getirildi. <br>
-*Diğer araçlar ile yarış hissi kuvvetlendirildi.
+*Diğer araçlar ile yarış hissi kuvvetlendirildi. <br>
+*Karaker kontrolcüsü yapıldı. <br>
+*Oyuncu kamerası hazırlandı.
 
 
 ## Daily Scrum
@@ -65,6 +67,9 @@ Daily Scrum toplantılarını discord üzerinden gerçekleştirilmesine karar ve
 
 
 ### Alınan kararlar:
+
+*Menü sahnesi yapılacak
+*
 
 
 
