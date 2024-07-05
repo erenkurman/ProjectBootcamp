@@ -68,9 +68,8 @@ Daily Scrum toplantılarını discord üzerinden gerçekleştirilmesine karar ve
 
 ### Alınan kararlar:
 
-*Menü sahnesi yapılacak
+*Menü sahnesi yapılacak <br>
 *
-
 
 
 ### Sprint Retrospective
